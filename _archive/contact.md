@@ -1,9 +1,9 @@
 ---
-title: "Contact"
+title: "投稿"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<!-- <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p>Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -15,4 +15,6 @@ permalink: "/contact.html"
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
-</form>
+</form> -->
+
+投稿信箱：404wall@proton.me
