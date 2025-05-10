@@ -1,6 +1,6 @@
 ---
 title:  "新浪微博"
 metadate: "hide"
-categories: [桌面, 社交網絡]
+categories: [微博, 桌面, 社交網絡]
 image: "/assets/images/weibo_desktop_1.jpeg"
 ---
